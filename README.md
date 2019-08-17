@@ -6,3 +6,6 @@
 - Note the menu in the lower left
 - I am not clicking it over and over, it is closing itself
 - Seems possibly also related to dom reflowing
+
+### `screen.jpg`
+- Note oddly inconsistent build step casing ¯\\\_(ツ)\_/¯
